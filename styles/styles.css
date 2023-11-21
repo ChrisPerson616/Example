@@ -1,0 +1,24 @@
+.red{
+    color: darkred;
+}
+
+.something{
+    color: blue;
+}
+
+
+ol li {
+    color: crimson;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    /* In an event where one font doesnt work, a other one would replace it */
+}
+
+
+
+
+table, table tr td{
+    border: 1px black solid;
+    border-spacing: 0px;
+    border-collapse: collapse;
+}
+
